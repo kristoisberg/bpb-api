@@ -1,0 +1,6 @@
+{
+  "name": "BPB API",
+  "description": "",
+  "image": "heroku/gradle",
+  "addons": ["heroku-postgresql"]
+}
