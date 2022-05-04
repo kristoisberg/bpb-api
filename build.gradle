@@ -20,8 +20,8 @@ dependencies {
 
     implementation group: 'org.postgresql', name: 'postgresql', version: '42.3.4'
 
-    implementation group: 'jakarta.xml.bind', name: 'jakarta.xml.bind-api', version: '4.0.0'
-    implementation group: 'org.glassfish.jaxb', name: 'jaxb-runtime', version: '4.0.0-M4'
+    implementation group: 'jakarta.xml.bind', name: 'jakarta.xml.bind-api', version: '2.3.3'
+    implementation group: 'org.glassfish.jaxb', name: 'jaxb-runtime', version: '2.3.6'
 
     compileOnly group: 'org.projectlombok', name: 'lombok', version: '1.18.24'
     annotationProcessor group: 'org.projectlombok', name: 'lombok', version: '1.18.24'
